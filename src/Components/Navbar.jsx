@@ -1,13 +1,13 @@
 export default function Navbar() {
     return(
         <>
-            <nav className="navbar navbar-expand-lg navbar-light bg-light">
+            <nav>
                 <h1>LOOPSTUDIOS</h1>
                 
-                    <li>About</li>
-                    <li>Careers</li>
-                    <li>Products</li>
-                    <li>Support</li>
+                <li>About</li>
+                <li>Careers</li>
+                <li>Products</li>
+                <li>Support</li>
                 
             </nav>
         </>

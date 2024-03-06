@@ -1,4 +1,5 @@
-import Navbar from "./Components/Navbar"
+
+import Navbar from "./Components/Navbar.jsx"
 
 function App() {
   
@@ -6,7 +7,8 @@ function App() {
   return (
     <>
       <div className="App">
-        <Navbar /> 
+       
+        <Navbar />
       </div>
       
     </>
