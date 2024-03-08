@@ -2,7 +2,7 @@ export default function Navbar() {
     return(
         <>
             <nav>
-                <h1>LOOPSTUDIOS</h1>
+                <h4>LOOPSTUDIOS</h4>
                 
                 <li>About</li>
                 <li>Careers</li>

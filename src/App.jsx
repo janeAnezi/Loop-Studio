@@ -1,15 +1,12 @@
-
-import Navbar from "./Components/Navbar.jsx"
+import React from "react"
+import Home from "./Components/Home.jsx"
 
 function App() {
   
 
   return (
     <>
-      <div className="App">
-       
-        <Navbar />
-      </div>
+      <Home />
       
     </>
   )
