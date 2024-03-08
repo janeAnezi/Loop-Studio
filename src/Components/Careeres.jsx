@@ -3,7 +3,7 @@ export default function Careers() {
         <>
             <div>
                 <div>
-                    <img src="" alt="" />
+                    <img src="./images/career.jpg" alt="person with wearing VR machine" />
                 </div>
                 <div>
                     <h2>THE HEADER IN INTERACTIVE VR</h2>
