@@ -1,5 +1,6 @@
 import React from "react"
 import Home from "./Components/Home.jsx"
+import Careers from "./Components/Careeres.jsx"
 
 function App() {
   
@@ -7,7 +8,7 @@ function App() {
   return (
     <>
       <Home />
-      
+      <Careers />
     </>
   )
 }

@@ -1,9 +1,10 @@
+import React from "react"
 export default function Careers() {
     return(
         <>
             <div>
                 <div>
-                    <img src="./images/career.jpg" alt="person with wearing VR machine" />
+                    <img src="./src/assets/imagecarrer.png" alt="person with wearing VR machine" />
                 </div>
                 <div>
                     <h2>THE HEADER IN INTERACTIVE VR</h2>
