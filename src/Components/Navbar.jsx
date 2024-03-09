@@ -1,14 +1,14 @@
 export default function Navbar() {
     return(
         <>
-            <nav>
+            <nav className="flex justify-between p-5">
                 <h4>LOOPSTUDIOS</h4>
-                
-                <li>About</li>
-                <li>Careers</li>
-                <li>Products</li>
-                <li>Support</li>
-                
+                <ul className="flex space-x-3">
+                    <li>About</li>
+                    <li>Careers</li>
+                    <li>Products</li>
+                    <li>Support</li>
+                </ul>
             </nav>
         </>
     )
