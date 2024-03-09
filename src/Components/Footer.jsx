@@ -1,3 +1,8 @@
+import { AiOutlineFacebook } from "react-icons/ai";
+import { AiOutlineTwitter } from "react-icons/ai";
+import { AiOutlineIe } from "react-icons/ai";
+import { AiOutlineInstagram } from "react-icons/ai";
+
 export default function Footer() {
     return(
         <>
@@ -5,10 +10,11 @@ export default function Footer() {
                 <div className="flex justify-between mb-2">
                     <h4>LOOPSTUDIOS</h4>
                     <ul className="flex space-x-3">
-                        <li>fb</li>
-                        <li>twt</li>
-                        <li>lkn</li>
-                        <li>insta</li>
+                        <AiOutlineFacebook size={20}/>
+                        <AiOutlineTwitter size={20}/>
+                        <AiOutlineIe size={20}/>
+                        <AiOutlineInstagram size={20}/>
+                        
                     </ul>
                 </div>
                 <div className="flex justify-between text-xs">
