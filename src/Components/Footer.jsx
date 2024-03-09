@@ -21,6 +21,7 @@ export default function Footer() {
                     <ul className="flex space-x-3">
                         <li>About</li>
                         <li>Careers</li>
+                        <li>Events</li>
                         <li>Products</li>
                         <li>Support</li>
                     </ul>
