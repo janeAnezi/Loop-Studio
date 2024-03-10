@@ -12,8 +12,8 @@ export default function Footer() {
                     <ul className="flex space-x-3">
                         <a href="https://web.facebook.com/?_rdc=1&_rdr"><AiOutlineFacebook size={20}/></a>
                         <a href="https://twitter.com/i/flow/login"><AiOutlineTwitter size={20}/></a>
-                        <a href="google.com"><AiOutlineIe size={20}/></a>
-                        <a href="instagram.com"><AiOutlineInstagram size={20}/></a>
+                        <a href="https://google.com"><AiOutlineIe size={20}/></a>
+                        <a href="https://www.instagram.com/"><AiOutlineInstagram size={20}/></a>
                         
                     </ul>
                 </div>
