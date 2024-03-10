@@ -10,10 +10,10 @@ export default function Footer() {
                 <div className="flex justify-between mb-2">
                     <h4>LOOPSTUDIOS</h4>
                     <ul className="flex space-x-3">
-                        <AiOutlineFacebook size={20}/>
-                        <AiOutlineTwitter size={20}/>
-                        <AiOutlineIe size={20}/>
-                        <AiOutlineInstagram size={20}/>
+                        <a href="https://web.facebook.com/?_rdc=1&_rdr"><AiOutlineFacebook size={20}/></a>
+                        <a href=""><AiOutlineTwitter size={20}/></a>
+                        <a href=""><AiOutlineIe size={20}/></a>
+                        <a href=""><AiOutlineInstagram size={20}/></a>
                         
                     </ul>
                 </div>
