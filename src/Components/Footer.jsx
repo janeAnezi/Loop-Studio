@@ -19,11 +19,11 @@ export default function Footer() {
                 </div>
                 <div className="flex justify-between text-xs">
                     <ul className="flex space-x-3">
-                        <li>About</li>
-                        <li>Careers</li>
-                        <li>Events</li>
-                        <li>Products</li>
-                        <li>Support</li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Careers</a></li>
+                    <li><a href="#">Events</a></li>
+                    <li><a href="#">Products</a></li>
+                    <li><a href="#">Support</a></li>
                     </ul>
                     <p className=" text-slate-400"> &copy; Loopstudios All rights reserved </p>
                 </div>
